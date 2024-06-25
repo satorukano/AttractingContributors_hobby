@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some favorite color.
 
 # List of Color
 - Green
+- Red
